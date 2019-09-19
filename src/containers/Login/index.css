@@ -1,0 +1,48 @@
+.login_content {
+    background-image: url(https://hbimg.huabanimg.com/51cdb79b644acba3d7249b73fc4809dd5be0fcac2bd42-Fa8hEE_fw658);
+    width:100%;
+    height: auto;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+    background-size: cover;
+}
+.login_form_content {
+    margin-top: 40%;
+    background-color: #fff;
+    opacity: 0.7;
+    padding: .5rem 0;
+}
+.login_f_li_content {
+    margin: 0 .5rem;
+    border-bottom: 1px solid #ccc;
+}
+.login_f_left {
+    width: 3.2rem;
+    text-align: center;
+    /*background-color: red;*/
+}
+.login_f_middle {
+    flex: 1;
+    height: 2.2rem;
+    background-color: #fff;
+}
+.login_f_middle input {
+    height: 2rem;
+    width: 95%;
+    border: none;
+    font-size: 1rem;
+    background-color: #fff;
+}
+.login_f_right {
+    width: 2rem;
+    text-align: center;
+    /*background-color: red;*/
+}
+
+.public_button {
+    margin: 10% .5rem 0 .5rem;
+}

@@ -1,0 +1,36 @@
+.recharge_content {
+    padding-top: .5rem;
+}
+
+.recharge_li_left {
+    height: 5rem;
+    width: 30%;
+    margin: 0 .5rem;
+    border-radius: .5rem;
+}
+.recharge_li_left_title {
+    text-align: center;
+    padding-top: 2rem;
+    color: #fff;
+    font-size: 1rem;
+}
+
+.recharge_li_right {
+    flex: 1;
+    height: 5rem;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+    padding: 0 .5rem;
+    border-radius: .5rem;
+    background-color: #fff;
+}
+.recharge_li_right_top {
+    margin-top: .5rem;
+}
+.recharge_li_right_bottom {
+    margin-top: 1.8rem;
+    width: calc(100% - 50%);
+    text-align: center;
+    padding: .5rem;
+    border-radius: .5rem;
+    color: #fff;
+}

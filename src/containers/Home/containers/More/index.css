@@ -1,0 +1,32 @@
+.more_content {
+    padding-top: .5rem;
+}
+.more_li_left {
+    height: 5.7rem;
+    padding-top: 1.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    background-color: #efeff4;
+}
+.more_li_left img {
+    width: 3rem;
+    height: 3rem;
+    margin-right: .5rem;
+    vertical-align: middle;
+}
+
+.more_li_right {
+    height: 5.7rem;
+    padding-top: 1.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    background-color: #efeff4;
+}
+.more_li_right img {
+    width: 3rem;
+    height: 3rem;
+    margin-right: .5rem;
+    vertical-align: middle;
+}

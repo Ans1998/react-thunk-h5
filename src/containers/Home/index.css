@@ -1,0 +1,32 @@
+
+.index_nav_img img {
+    width: 3.5rem;
+    height: 3.5rem;
+}
+.common_carousel {
+    padding: 0 1.1rem 1.1rem 1.1rem;
+    overflow: hidden;
+}
+.common_slide_carousel_true {
+    width: 100%;
+    height: 10.5rem;
+    position: relative;
+    animation: commonSlideTrue 0.5s forwards ;
+    background-color: red;
+}
+@keyframes commonSlideTrue
+{
+    50%  {
+        height: 10.8rem;
+        bottom: 0.1rem;
+    }
+    100% {
+        height: 11rem;
+        bottom: 0.2rem;
+    }
+}
+.common_slide_carousel_false {
+    width: 100%;
+    height: 10.5rem;
+    background-color: red;
+}

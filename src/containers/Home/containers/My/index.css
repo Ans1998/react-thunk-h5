@@ -1,0 +1,50 @@
+.my_content {}
+
+.my_head_content {
+    background-image: url(https://image.weilanwl.com/color2.0/index.jpg);
+    background-size: cover;
+    height: 19.6rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 2.8rem;
+    overflow: hidden;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-weight: 300;
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+.my_middle_content {
+    height: 4rem;
+    padding-top: .5rem;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: .5rem;
+    margin: .5rem;
+    background-color: #efeff4;
+}
+.my_m_left {
+    color: #ffae00;
+    /*background-color: red;*/
+}
+.my_m_middle {
+    color: blue;
+    border-left: 1px solid #fff;
+    /*background-color: blue;*/
+}
+.my_m_right {
+    color: green;
+    border-left: 1px solid #fff;
+    /*background-color: red;*/
+}
+
+.my_bottom_content {
+    margin-top: 1rem;
+}
+.my_b_li_content {}
+.my_b_li {
+    text-align: center;
+    font-size: 1rem;
+}
